@@ -1,0 +1,12 @@
+"data": [
+    ("login", {"username": "", "password": ""}),
+    ("register", {"name": "", "email": "", "password": "", "confirm_password": ""}),
+    ("dashboard", {"total_users": 120, "active_sessions": 17, "alerts": []}),
+    ("profile", {"full_name": "", "dob": "", "gender": "", "avatar_url": ""}),
+    ("settings", {"theme": "dark", "notifications": True, "language": "en"}),
+    ("contact", {"name": "", "email": "", "message": ""}),
+    ("invoice", {"invoice_no": "INV12345", "amount": 3500.50, "status": "Paid", "date": "2025-06-12"}),
+    ("feedback", {"rating": 0, "comment": "", "recommend": True}),
+    ("products", {"items": [{"name": "Solar Panel", "price": 1000}, {"name": "Inverter", "price": 5000}]}),
+    ("report", {"title": "Monthly Report", "summary": "", "pages": 12, "download_url": ""}),
+]
